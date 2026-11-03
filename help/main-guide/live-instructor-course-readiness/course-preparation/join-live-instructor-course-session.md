@@ -23,7 +23,7 @@ Rejoignez la salle de réunion en cliquant sur le lien personnalisé de votre ca
 
 Si vous ne disposez pas d’une invitation au calendrier, ou si vous ne pouvez pas vous inscrire à partir du lien personnalisé, procédez comme suit pour lancer la salle de réunion :
 
-1. Accédez à [**[!UICONTROL  Mon apprentissage ]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Accédez à la section **[!UICONTROL Formation en cours]**.
 1. Sous **[!UICONTROL Instructeur en direct]**, recherchez votre cours.
 1. Dans l’aperçu, passez à l’onglet **[!UICONTROL Détails de la session]** et recherchez le jour où vous vous trouvez.

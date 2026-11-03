@@ -20,7 +20,7 @@ Trouvez des réponses à vos questions fréquentes. Sélectionnez le nom de la r
 * [Support technique](/help/main-guide/technical-support.md) : obtenez de l’aide pour lancer une salle de réunion ou un contenu, ou pour résoudre des problèmes liés à votre expérience de cours en cours.
 * [Options d’apprentissage](/help/main-guide/learning-options.md) : explorez les options de formation que nous proposons pour trouver celle qui vous convient le mieux.
 * [Replanifications et annulations](/help/main-guide/reschedule-and-cancellation-policies.md) : découvrez vos options d’annulation ou de replanification et en savoir plus sur les polices.
-* [Conditions générales de l’abonnement à Premium Learning ](/help/main-guide/terms-and-conditions.md) : consultez l’intégralité des conditions générales de votre abonnement à Premium Learning.
+* [Conditions générales de l’abonnement à Premium Learning &#x200B;](/help/main-guide/terms-and-conditions.md) : consultez l’intégralité des conditions générales de votre abonnement à Premium Learning.
 * [À savoir avant de partir : cohortes](/help/main-guide/cohorts/overview.md) : obtenez un aperçu général de l’expérience de la cohorte et de ce à quoi vous attendre.
-* [Informations sur l’abonnement à Premium Learning ](/help/main-guide/premium-learning-subscription/overview.md) : découvrez l’abonnement à Premium Learning, ses avantages et son contenu.
+* [Informations sur l’abonnement à Premium Learning &#x200B;](/help/main-guide/premium-learning-subscription/overview.md) : découvrez l’abonnement à Premium Learning, ses avantages et son contenu.
 * [À savoir avant de partir : cours dispensés en direct par un instructeur](/help/main-guide/live-instructor-course-readiness/overview.md) : préparez-vous à un parcours d’apprentissage réussi et vérifiez la configuration requise avant de suivre un cours en direct par un instructeur.

@@ -42,7 +42,7 @@ Vous trouverez votre lien de salle de réunion virtuelle personnalisé dans votr
 ## Configuration logicielle requise
 
 - Les navigateurs web recommandés sont Chrome ou Firefox
-- Possibilité d’accéder à l’écran de connexion de [](https://experience.adobe.com/) (voir la remarque ci-dessous)
+- Possibilité d’accéder à l’écran de connexion de [&#128279;](https://experience.adobe.com/) (voir la remarque ci-dessous)
 - Les informations de connexion seront fournies pendant la formation
 - Accès à un éditeur de texte
 - Programme d’extraction de fichiers d’archive (.zip)

@@ -21,7 +21,7 @@ La **[!UICONTROL feuille de résumé]** fournit un aperçu général des activit
 
 ## Référence rapide permettant de lire l’onglet **[!UICONTROL Résumé]** de votre **[!UICONTROL Rapport d’utilisation de l’apprentissage]**. Les chiffres varient selon le compte. Cela explique la signification de chaque section.
 
-**Q : Quels sont les quatre chiffres en haut (**[!UICONTROL  Total des inscriptions ]**,**[!UICONTROL &#x200B;Élèves actifs ]**,**[!UICONTROL  Taux d’achèvement ]**,**[!UICONTROL  Heures d’apprentissage ]**) ?**
+**Q : Quels sont les quatre chiffres en haut (**&#x200B;[!UICONTROL &#x200B; Total des inscriptions &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B;Élèves actifs &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B; Taux d’achèvement &#x200B;]&#x200B;**,**&#x200B;[!UICONTROL &#x200B; Heures d’apprentissage &#x200B;]&#x200B;**) ?**
 
 Voici vos principaux indicateurs de performance clés, le moyen le plus rapide d’évaluer la taille et l’élan du programme.
 
@@ -29,15 +29,15 @@ Voici vos principaux indicateurs de performance clés, le moyen le plus rapide d
 >
 >Le taux d’achèvement et les heures d’apprentissage ne comptabilisent que les formations qui ont réellement eu lieu (dispensées ou à votre propre rythme), et non les classes encore programmées.
 
-**Q : Que montre le tableau**[!UICONTROL  Tendances d’inscription par mois ]**?**
+**Q : Que montre le tableau**&#x200B;[!UICONTROL &#x200B; Tendances d’inscription par mois &#x200B;]&#x200B;**?**
 
 Votre activité d’inscription au fil du temps, mois par mois, avec une variation de %. Utilisez ceci pour voir si l’engagement augmente, stagne ou ralentit.
 
-**Q : Quelle est la différence entre la**[!UICONTROL  Répartition du statut ]**et le**[!UICONTROL  Taux d’achèvement ]**?**
+**Q : Quelle est la différence entre la**&#x200B;[!UICONTROL &#x200B; Répartition du statut &#x200B;]&#x200B;**et le**&#x200B;[!UICONTROL &#x200B; Taux d’achèvement &#x200B;]&#x200B;**?**
 
 La répartition du statut (Terminée / En cours / Non démarrée) couvre toutes les inscriptions, y compris celles qui n’ont pas encore commencé. Le taux d’achèvement comptabilise uniquement les cours que les élèves ont eu la chance de terminer.
 
-**Q : Que me dit**[!UICONTROL  Class Delivery — Scheduled vs Delivered ]**?**
+**Q : Que me dit**&#x200B;[!UICONTROL &#x200B; Class Delivery — Scheduled vs Delivered &#x200B;]&#x200B;**?**
 
 Si vos inscriptions ont réellement été exécutées. Il divise tout en Diffusés, En cours, Planifiés et Auto-évalués. C’est la base de ce qui est considéré comme *éligible* dans le calcul de l’achèvement.
 

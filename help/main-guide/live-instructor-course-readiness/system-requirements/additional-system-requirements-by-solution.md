@@ -29,7 +29,7 @@ Les étudiants auront accès au compte de la société Premium Learning Adobe Ex
 
 Pour les cours techniques sur Adobe Experience Manager, utilisez un logiciel de machine virtuelle appelé **[!DNL ReadyTech]**. Avant le cours, veillez à :
 
-1. Effectuez [ Vérification Préalable Des Performances ](https://adobe.instructorled.training/system-precheck)
+1. Effectuez [&#x200B; Vérification Préalable Des Performances &#x200B;](https://adobe.instructorled.training/system-precheck)
 1. Effectuez la prévérification de l’accessibilité et vérifiez l’accès à l’[[!DNL ReadyTech] écran de connexion](https://axis.readytech.com/#/login) uniquement (ne vous connectez pas).
 
 ## Adobe Campaign
@@ -38,7 +38,7 @@ Le client Campaign est une application Windows uniquement. Si vous ne disposez p
 
 Si vous ne disposez pas d&#39;un ordinateur Windows ou de la capacité d&#39;installer un logiciel, assurez-vous de :
 
-1. Effectuez [ Vérification Préalable Des Performances ](https://adobe.instructorled.training/system-precheck)
+1. Effectuez [&#x200B; Vérification Préalable Des Performances &#x200B;](https://adobe.instructorled.training/system-precheck)
 1. Effectuez la prévérification de l’accessibilité et vérifiez l’accès à l’[[!DNL ReadyTech] écran de connexion](https://axis.readytech.com/#/login) uniquement (ne vous connectez pas).
 
 ## Adobe Experience Platform
@@ -47,7 +47,7 @@ Certains cours techniques d’AEP utilisent **Postman** pour les activités lié
 
 Si vous ne pouvez pas installer de logiciel, veillez à :
 
-1. Effectuez [ Vérification Préalable Des Performances ](https://adobe.instructorled.training/system-precheck)
+1. Effectuez [&#x200B; Vérification Préalable Des Performances &#x200B;](https://adobe.instructorled.training/system-precheck)
 1. Effectuez la prévérification de l’accessibilité et vérifiez l’accès à l’[[!DNL ReadyTech] écran de connexion](https://axis.readytech.com/#/login) uniquement (ne vous connectez pas).
 
 ## Adobe Target

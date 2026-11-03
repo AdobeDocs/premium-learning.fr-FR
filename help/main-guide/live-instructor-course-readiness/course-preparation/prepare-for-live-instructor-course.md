@@ -23,7 +23,7 @@ Après vous être inscrit, vous recevrez un e-mail de confirmation automatisé e
 
 Conseil de diffusion email :
 
-* Les e-mails et les invitations au calendrier liés à l’apprentissage proviennent de [](mailto:plsnore@adobe.com) (adresse e-mail de non-réponse à l’abonnement Premium Learning). Ajoutez cette adresse e-mail à vos contacts ou à votre liste d’expéditeurs approuvés pour vous assurer que les e-mails sont envoyés à votre boîte de réception.
+* Les e-mails et les invitations au calendrier liés à l’apprentissage proviennent de [&#128279;](mailto:plsnore@adobe.com) (adresse e-mail de non-réponse à l’abonnement Premium Learning). Ajoutez cette adresse e-mail à vos contacts ou à votre liste d’expéditeurs approuvés pour vous assurer que les e-mails sont envoyés à votre boîte de réception.
 * S&#39;il vous manque un e-mail, veuillez vérifier votre dossier spam ou courrier indésirable, ainsi que tout onglet secondaire de la boîte de réception (tel que l&#39;onglet **[!UICONTROL Autre]** dans Outlook ou tout autre affichage filtré similaire).
 
 ## À quoi puis-je m’attendre après m’être inscrit à un cours avec instructeur sur site ?
@@ -34,7 +34,7 @@ Après votre inscription, vous recevrez un e-mail de confirmation automatisé. S
 
 Conseil de diffusion email :
 
-* Les e-mails relatifs à l’apprentissage proviendront de [](mailto:plsnore@adobe.com) (adresse e-mail de non-réponse à l’abonnement Premium Learning). Ajoutez cette adresse e-mail à vos contacts ou à votre liste d’expéditeurs approuvés pour vous assurer que les e-mails sont envoyés à votre boîte de réception.
+* Les e-mails relatifs à l’apprentissage proviendront de [&#128279;](mailto:plsnore@adobe.com) (adresse e-mail de non-réponse à l’abonnement Premium Learning). Ajoutez cette adresse e-mail à vos contacts ou à votre liste d’expéditeurs approuvés pour vous assurer que les e-mails sont envoyés à votre boîte de réception.
 * S&#39;il vous manque un e-mail, veuillez vérifier votre dossier spam ou courrier indésirable, ainsi que tout onglet secondaire de la boîte de réception (tel que l&#39;onglet **[!UICONTROL Autre]** dans Outlook ou tout autre affichage filtré similaire).
 
 ## Premium Learning fournit-il des instances de démonstration ou de formation ? Comment puis-je accéder à mon environnement pour la classe ?
