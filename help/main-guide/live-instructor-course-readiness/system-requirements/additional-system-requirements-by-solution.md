@@ -54,5 +54,5 @@ Si vous ne pouvez pas installer de logiciel, veillez à :
 
 Nous vous recommandons de télécharger et d’installer ces extensions Chrome :
 
-* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/en/docs/experience-platform/debugger/home)
+* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/fr/docs/experience-platform/debugger/home)
 * [Compositeur d’expérience visuelle Adobe Target](https://chromewebstore.google.com/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca?pli=1)

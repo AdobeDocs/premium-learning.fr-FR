@@ -19,7 +19,7 @@ ht-degree: 0%
 Les sessions en direct seront menées à l’aide d’Adobe Connect. Veillez à suivre ces points de contrôle pour éviter des problèmes techniques au cours de la session en direct :
 
 1. Exécutez ce [test de diagnostic](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm) pour vous assurer qu’Adobe Connect fonctionne correctement sur votre système.
-1. Passez en revue les [spécifications techniques](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) d’Adobe Connect.
+1. Passez en revue les [spécifications techniques](https://helpx.adobe.com/fr/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) d’Adobe Connect.
 1. Vous pouvez rejoindre Adobe Connect par le biais d’un navigateur ou de l’application de bureau. Si l’application de bureau est déjà installée et que vous rencontrez des problèmes, désinstallez l’application Adobe Connect et réinstallez-la à l’aide de la dernière version fournie [ici](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
 
 Vous trouverez votre lien de salle de réunion virtuelle personnalisé dans votre invitation de calendrier. Le jour de l&#39;entraînement, nous vous recommandons de lancer le lien 5-10 minutes avant le début du cours.

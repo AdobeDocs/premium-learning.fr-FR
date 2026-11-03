@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Pour annuler votre inscription à une cohorte ou à un cours :
 
-1. Recherchez votre inscription sur la page [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Recherchez votre inscription sur la page [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/fr/premium/learnings).
 2. Cliquez sur **[!UICONTROL Se désinscrire]**.
 
 Consultez les [Conditions générales](/help/main-guide/terms-and-conditions.md) pour obtenir des informations complètes sur les politiques de rééchelonnement, d’annulation et de non-présentation.
@@ -28,8 +28,8 @@ Consultez les [Conditions générales](/help/main-guide/terms-and-conditions.md)
 
 Pour replanifier une date différente :
 
-1. Se désinscrire de votre cohorte ou cours. Vos inscriptions sont répertoriées sur la page [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
-2. Revenez au [**[!UICONTROL Catalogue Premium &#x200B;]**](https://experienceleague.adobe.com/en/premium/premium-search) pour vous inscrire à une autre cohorte ou à une autre date de cours.
+1. Se désinscrire de votre cohorte ou cours. Vos inscriptions sont répertoriées sur la page [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/fr/premium/learnings).
+2. Revenez au [**[!UICONTROL Catalogue Premium &#x200B;]**](https://experienceleague.adobe.com/fr/premium/premium-search) pour vous inscrire à une autre cohorte ou à une autre date de cours.
 
 Consultez les [Conditions générales](/help/main-guide/terms-and-conditions.md) pour obtenir des informations complètes sur les politiques de replanification, d’annulation et de non-présentation.
 

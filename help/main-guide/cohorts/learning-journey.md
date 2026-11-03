@@ -35,4 +35,4 @@ Vous pouvez également suivre vos progrès tout au long du projet du Défi Capst
 
 Les dernières semaines comprennent un Défi Capstone pour mettre en pratique votre apprentissage et du temps pour vous préparer à l’examen de certification Adobe.
 
-Les badges d’achèvement de la cohorte seront disponibles dans [Mes réalisations](https://experienceleague.adobe.com/en/premium/my-achievements).
+Les badges d’achèvement de la cohorte seront disponibles dans [Mes réalisations](https://experienceleague.adobe.com/fr/premium/my-achievements).

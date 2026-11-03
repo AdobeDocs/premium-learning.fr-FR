@@ -29,7 +29,7 @@ Pour vous assurer que nos e-mails et invitations au calendrier sont envoyés à 
 
 S&#39;il vous manque un e-mail, veuillez vérifier votre dossier spam ou courrier indésirable, ainsi que tout onglet secondaire de la boîte de réception (tel que l&#39;onglet **[!UICONTROL Autre]** dans Outlook ou tout autre affichage filtré similaire).
 
-**Environ 1 semaine avant le début de votre cohorte :** recherchez un e-mail de bienvenue qui vous permet de commencer à accéder à vos activités de cohorte et aux exigences préalables au travail. En attendant, vous pouvez en savoir plus sur les objectifs et le programme de la cohorte dans [**[!UICONTROL Mon hub &#x200B;]**](https://experienceleague.adobe.com/en/premium/home).
+**Environ 1 semaine avant le début de votre cohorte :** recherchez un e-mail de bienvenue qui vous permet de commencer à accéder à vos activités de cohorte et aux exigences préalables au travail. En attendant, vous pouvez en savoir plus sur les objectifs et le programme de la cohorte dans [**[!UICONTROL Mon hub &#x200B;]**](https://experienceleague.adobe.com/fr/premium/home).
 
 ## Comment puis-je accéder à un environnement à utiliser pendant la cohorte ?
 

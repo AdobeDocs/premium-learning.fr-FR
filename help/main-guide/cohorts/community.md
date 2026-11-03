@@ -17,6 +17,6 @@ ht-degree: 1%
 
 ## Existe-t-il un canal ou un forum de support dédié pour les membres d’une cohorte ?
 
-Chaque cohorte de Adobe Premium Learning propose un **forum de discussion** où les membres de la cohorte, ainsi que l&#39;instructeur et l&#39;animateur, peuvent avoir des conversations sur ce que vous apprenez, poser des questions, etc. Le forum de discussion de la cohorte est un excellent moyen de dialoguer avec vos pairs en dehors des sessions. Le forum de discussion est disponible **le premier jour de votre cohorte** dans [Mon hub](https://experienceleague.adobe.com/en/premium/home).
+Chaque cohorte de Adobe Premium Learning propose un **forum de discussion** où les membres de la cohorte, ainsi que l&#39;instructeur et l&#39;animateur, peuvent avoir des conversations sur ce que vous apprenez, poser des questions, etc. Le forum de discussion de la cohorte est un excellent moyen de dialoguer avec vos pairs en dehors des sessions. Le forum de discussion est disponible **le premier jour de votre cohorte** dans [Mon hub](https://experienceleague.adobe.com/fr/premium/home).
 
 **Question non listée ici ? [Nous contacter](https://adobe.service-now.com/adls?category=27).**
