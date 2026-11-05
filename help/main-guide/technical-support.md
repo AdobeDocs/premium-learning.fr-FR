@@ -31,8 +31,8 @@ Vous avez besoin d&#39;aide pour lancer une salle de réunion ou un contenu ? Vo
 - Essayez un autre navigateur.
 - Essayez un autre réseau ou appareil. Les paramètres du réseau ou du pare-feu de votre entreprise peuvent empêcher l&#39;accès à la salle de réunion virtuelle. Le cas échéant, essayez d’utiliser un autre réseau ou un autre appareil personnel.
 - Activez les paramètres du périphérique audio.
-- Passez en revue les [spécifications techniques](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) d’Adobe Connect.
-- Placez sur la liste autorisée les domaines, adresses IP et ports réseau requis, comme recommandé par le service Ingénierie. Nous vous recommandons de partager cet [article Adobe pertinent](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) avec l’équipe informatique de votre entreprise afin qu’elle autorise les ports UDP et TCP requis et assure une connectivité multimédia appropriée.
+- Passez en revue les [spécifications techniques](https://helpx.adobe.com/fr/adobe-connect/connect-tech-spec/12-10-technical-specifications.html) d’Adobe Connect.
+- Placez sur la liste autorisée les domaines, adresses IP et ports réseau requis, comme recommandé par le service Ingénierie. Nous vous recommandons de partager cet [article Adobe pertinent](https://helpx.adobe.com/fr/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html) avec l’équipe informatique de votre entreprise afin qu’elle autorise les ports UDP et TCP requis et assure une connectivité multimédia appropriée.
 
 **Ressources Adobe Connect supplémentaires :**
 
@@ -46,7 +46,7 @@ Vous avez besoin d&#39;aide pour lancer une salle de réunion ou un contenu ? Vo
 Rejoignez la salle de réunion en utilisant le lien personnalisé à l&#39;intérieur de vos invitations de calendrier.
 
 Si vous ne disposez pas d’une invitation au calendrier, ou si vous ne pouvez pas vous inscrire à partir du lien personnalisé, procédez comme suit pour lancer la salle de réunion :
-1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/fr/premium/learnings).
 1. Accédez à la section **[!UICONTROL Formation en cours]**.
 1. Sous **[!UICONTROL Instructeur en direct]**, recherchez votre cours.
 1. Vous devriez voir une vue d’ensemble. Passez à l’onglet **[!UICONTROL Détails de la session]** et recherchez le Jour où vous êtes.
@@ -57,7 +57,7 @@ Si vous ne disposez pas d’une invitation au calendrier, ou si vous ne pouvez p
 Rejoignez la salle de réunion en utilisant le lien personnalisé à l&#39;intérieur de vos invitations de calendrier.
 
 Si vous ne disposez pas d’une invitation au calendrier, ou si vous ne pouvez pas vous inscrire à partir du lien personnalisé, procédez comme suit pour lancer la salle de réunion :
-1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/fr/premium/learnings).
 1. Accédez à la section **[!UICONTROL Formation en cours]**.
 1. Recherchez la cohorte.
 1. Accédez à la semaine appropriée et développez la session.

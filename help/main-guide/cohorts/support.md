@@ -23,7 +23,7 @@ Rejoignez la salle de réunion en **utilisant le lien personnalisé à l&#39;int
 
 Si vous ne disposez pas d’une invitation de calendrier, procédez comme suit pour lancer la salle de réunion :
 
-1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/fr/premium/learnings).
 1. Accédez à la section **[!UICONTROL Formation en cours]** .
 1. Recherchez la cohorte.
 1. Accédez à la semaine appropriée et développez la session.
@@ -33,7 +33,7 @@ Si vous ne disposez pas d’une invitation de calendrier, procédez comme suit p
 
 Si vous ne pouvez pas participer à partir du lien personnalisé inclus dans votre invitation de calendrier, procédez comme suit pour lancer la salle de réunion :
 
-1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/fr/premium/learnings).
 1. Accédez à la section **[!UICONTROL Formation en cours]**.
 1. Recherchez la cohorte.
 1. Accédez à la semaine appropriée et développez la session.
