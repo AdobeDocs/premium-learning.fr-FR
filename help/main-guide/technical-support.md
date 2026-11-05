@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 Vous avez besoin d&#39;aide pour lancer une salle de réunion ou un contenu ? Vous rencontrez des problèmes avec votre expérience en classe en ce moment ?
@@ -73,6 +73,6 @@ Si votre environnement sandbox a terminé l’approvisionnement, mais que vous r
 
 ## Conseils sur la délivrabilité des e-mails
 
-Les e-mails d&#39;apprentissage et les invitations au calendrier seront envoyés depuis [&#128279;](mailto:plsnore@adobe.com). Pour vous assurer de recevoir des mises à jour importantes, ajoutez cette adresse e-mail à votre liste de contacts ou d&#39;expéditeurs approuvés. Si vous pensez que vous avez manqué un e-mail, vérifiez votre dossier de courriers indésirables ou de courrier indésirable, ainsi que tous les onglets de boîte de réception filtrés (tels que l&#39;onglet **[!UICONTROL Autre]** dans Outlook).
+Les e-mails d&#39;apprentissage et les invitations au calendrier sont envoyés depuis [&#128279;](mailto:plsnore@adobe.com) (adresse de non-réponse). Pour vous assurer de recevoir des mises à jour importantes, ajoutez cette adresse e-mail à votre liste de contacts ou d&#39;expéditeurs approuvés. Si vous pensez que vous avez manqué un e-mail, vérifiez votre dossier de courriers indésirables ou de courrier indésirable, ainsi que tous les onglets de boîte de réception filtrés (tels que l&#39;onglet **[!UICONTROL Autre]** dans Outlook).
 
 Question non listée ici ? [Contactez-nous](https://adobe.service-now.com/adls?category=6).

@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,7 +23,7 @@ Vous recevrez un e-mail de confirmation d’inscription et des invitations de ca
 
 Pour vous assurer que nos e-mails et invitations au calendrier sont envoyés à votre boîte de réception, ajoutez les adresses suivantes à votre liste de contacts ou d’expéditeurs approuvés :
 
-**[&#128279;](mailto:plsnore@adobe.com)** (utilisé pour les notifications liées à l’apprentissage et les invitations au calendrier)
+**[&#128279;](mailto:plsnore@adobe.com)** (adresse sans réponse utilisée pour les notifications liées à l’apprentissage et les invitations au calendrier)
 
 **[&#128279;](mailto:environment@adobe.com)** et **[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)** (utilisés pour les notifications liées aux sandbox et aux environnements)
 

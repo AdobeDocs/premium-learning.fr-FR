@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '311'
 ht-degree: 0%
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Il me manque une ou plusieurs invitations de calendrier pour mes sessions de cohorte en direct.
 
-Les invitations proviennent de [&#128279;](mailto:plsnore@adobe.com) (utilisé pour les notifications liées à l’apprentissage et les invitations de calendrier). Veuillez vérifier votre dossier spam ou courrier indésirable, ainsi que tous les onglets secondaires de la boîte de réception (tels que l&#39;onglet **[!UICONTROL Autre]** dans Outlook ou les vues filtrées similaires).
+Les invitations proviennent de [&#128279;](mailto:plsnore@adobe.com) (adresse de non-réponse utilisée pour les notifications liées à l’apprentissage et les invitations de calendrier). Veuillez vérifier votre dossier spam ou courrier indésirable, ainsi que tous les onglets secondaires de la boîte de réception (tels que l&#39;onglet **[!UICONTROL Autre]** dans Outlook ou les vues filtrées similaires).
 
 Rejoignez la salle de réunion en **utilisant le lien personnalisé à l&#39;intérieur de vos invitations de calendrier**.
 
