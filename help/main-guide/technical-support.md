@@ -36,7 +36,7 @@ Vous avez besoin d&#39;aide pour lancer une salle de réunion ou un contenu ? Vo
 
 **Ressources Adobe Connect supplémentaires :**
 
-- [Blog d’assistance ](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/).
+- [Blog d’assistance &#x200B;](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/).
 - Assistance Adobe Connect : [Chat](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [Hotline](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) (mentionnez que vous participez à une formation avec Premium Learning)
 
 **Vous rencontrez des problèmes audio ?** Si vous avez déjà essayé les étapes de dépannage ci-dessus et que le problème persiste, les paramètres réseau ou de sécurité de votre entreprise peuvent empêcher le fonctionnement correct du son. Nous vous recommandons de contacter votre équipe informatique interne pour le vérifier et de [nous contacter](https://adobe.service-now.com/adls?category=26) pour obtenir une assistance supplémentaire.
@@ -46,7 +46,7 @@ Vous avez besoin d&#39;aide pour lancer une salle de réunion ou un contenu ? Vo
 Rejoignez la salle de réunion en utilisant le lien personnalisé à l&#39;intérieur de vos invitations de calendrier.
 
 Si vous ne disposez pas d’une invitation au calendrier, ou si vous ne pouvez pas vous inscrire à partir du lien personnalisé, procédez comme suit pour lancer la salle de réunion :
-1. Accédez à [**[!UICONTROL  Mon apprentissage ]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Accédez à la section **[!UICONTROL Formation en cours]**.
 1. Sous **[!UICONTROL Instructeur en direct]**, recherchez votre cours.
 1. Vous devriez voir une vue d’ensemble. Passez à l’onglet **[!UICONTROL Détails de la session]** et recherchez le Jour où vous êtes.
@@ -57,7 +57,7 @@ Si vous ne disposez pas d’une invitation au calendrier, ou si vous ne pouvez p
 Rejoignez la salle de réunion en utilisant le lien personnalisé à l&#39;intérieur de vos invitations de calendrier.
 
 Si vous ne disposez pas d’une invitation au calendrier, ou si vous ne pouvez pas vous inscrire à partir du lien personnalisé, procédez comme suit pour lancer la salle de réunion :
-1. Accédez à [**[!UICONTROL  Mon apprentissage ]**](https://experienceleague.adobe.com/en/premium/learnings).
+1. Accédez à [**[!UICONTROL &#x200B; Mon apprentissage &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings).
 1. Accédez à la section **[!UICONTROL Formation en cours]**.
 1. Recherchez la cohorte.
 1. Accédez à la semaine appropriée et développez la session.
@@ -73,6 +73,6 @@ Si votre environnement sandbox a terminé l’approvisionnement, mais que vous r
 
 ## Conseils sur la délivrabilité des e-mails
 
-Les e-mails d&#39;apprentissage et les invitations au calendrier sont envoyés depuis [](mailto:plsnore@adobe.com) (adresse de non-réponse). Pour vous assurer de recevoir des mises à jour importantes, ajoutez cette adresse e-mail à votre liste de contacts ou d&#39;expéditeurs approuvés. Si vous pensez que vous avez manqué un e-mail, vérifiez votre dossier de courriers indésirables ou de courrier indésirable, ainsi que tous les onglets de boîte de réception filtrés (tels que l&#39;onglet **[!UICONTROL Autre]** dans Outlook).
+Les e-mails d&#39;apprentissage et les invitations au calendrier sont envoyés depuis [&#128279;](mailto:plsnore@adobe.com) (adresse de non-réponse). Pour vous assurer de recevoir des mises à jour importantes, ajoutez cette adresse e-mail à votre liste de contacts ou d&#39;expéditeurs approuvés. Si vous pensez que vous avez manqué un e-mail, vérifiez votre dossier de courriers indésirables ou de courrier indésirable, ainsi que tous les onglets de boîte de réception filtrés (tels que l&#39;onglet **[!UICONTROL Autre]** dans Outlook).
 
 Question non listée ici ? [Contactez-nous](https://adobe.service-now.com/adls?category=6).
