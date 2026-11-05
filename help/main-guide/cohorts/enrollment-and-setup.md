@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,13 +23,13 @@ Vous recevrez un e-mail de confirmation d’inscription et des invitations de ca
 
 Pour vous assurer que nos e-mails et invitations au calendrier sont envoyés à votre boîte de réception, ajoutez les adresses suivantes à votre liste de contacts ou d’expéditeurs approuvés :
 
-**[&#128279;](mailto:plsnore@adobe.com)** (utilisé pour les notifications liées à l’apprentissage et les invitations au calendrier)
+**[](mailto:plsnore@adobe.com)** (adresse sans réponse utilisée pour les notifications liées à l’apprentissage et les invitations au calendrier)
 
-**[&#128279;](mailto:environment@adobe.com)** et **[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)** (utilisés pour les notifications liées aux sandbox et aux environnements)
+**[](mailto:environment@adobe.com)** et **[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)** (utilisés pour les notifications liées aux sandbox et aux environnements)
 
 S&#39;il vous manque un e-mail, veuillez vérifier votre dossier spam ou courrier indésirable, ainsi que tout onglet secondaire de la boîte de réception (tel que l&#39;onglet **[!UICONTROL Autre]** dans Outlook ou tout autre affichage filtré similaire).
 
-**Environ 1 semaine avant le début de votre cohorte :** recherchez un e-mail de bienvenue qui vous permet de commencer à accéder à vos activités de cohorte et aux exigences préalables au travail. En attendant, vous pouvez en savoir plus sur les objectifs et le programme de la cohorte dans [**[!UICONTROL Mon hub &#x200B;]**](https://experienceleague.adobe.com/fr/premium/home).
+**Environ 1 semaine avant le début de votre cohorte :** recherchez un e-mail de bienvenue qui vous permet de commencer à accéder à vos activités de cohorte et aux exigences préalables au travail. En attendant, vous pouvez en savoir plus sur les objectifs et le programme de la cohorte dans [**[!UICONTROL Mon hub ]**](https://experienceleague.adobe.com/en/premium/home).
 
 ## Comment puis-je accéder à un environnement à utiliser pendant la cohorte ?
 
